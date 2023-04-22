@@ -96,14 +96,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.39.81.81:9980/mithuntechnologies/repository/citibank-release/</url>
+	      <name>Ashwinihemanth Releases Nexus Repository</name>
+	      <url>http://172.31.40.38:9980/ashwinihemanth/repository/hdfcbank-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.39.81.81:9980/mithuntechnologies/repository/citibank-snapshot/</url>
+	      <name>Ashwinhemanth Snapshot Nexus Repository </name>
+	      <url>http://172.31.40.38:9980/ashwinihemanth/repository/hdfcbank-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
